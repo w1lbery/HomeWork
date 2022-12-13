@@ -20,10 +20,6 @@ function getStringLenght(string){
 
 getStringLenght(userString)
 
-// function calc(num1, num2){
-//     Number(num1, num2)
-//
-// }
 
 const operator = prompt('Enter operator ( either +, -, * or / ): ');
 
